@@ -1,3 +1,3 @@
-# Update minor changes
+# Updating CI/CD pipeline
 
-_Last updated: 2025-02-16T21:10:01.500Z_
+_Last updated: 2025-02-16T21:10:31.318Z_
