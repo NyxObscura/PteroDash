@@ -1,3 +1,3 @@
-# Improving SEO metadata
+# Fixing inconsistent naming conventions
 
-_Last updated: 2025-02-16T10:15:58.976Z_
+_Last updated: 2025-02-16T10:16:28.979Z_
