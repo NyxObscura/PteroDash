@@ -1,3 +1,3 @@
-# Fixing race conditions in async code
+# Improving SEO metadata
 
-_Last updated: 2025-02-16T16:56:56.961Z_
+_Last updated: 2025-02-16T16:57:26.985Z_
