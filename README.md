@@ -1,3 +1,3 @@
-# Adding better analytics tracking
+# Performance improvements
 
-_Last updated: 2025-02-16T10:44:59.160Z_
+_Last updated: 2025-02-16T10:45:29.219Z_
