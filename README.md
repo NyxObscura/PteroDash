@@ -1,3 +1,3 @@
-# Update minor changes
+# Adding better exception handling
 
-_Last updated: 2025-02-16T18:50:28.898Z_
+_Last updated: 2025-02-16T18:50:59.023Z_
