@@ -1,3 +1,3 @@
-# Adding logging for better debugging
+# Reducing bundle size
 
-_Last updated: 2025-02-16T20:54:01.058Z_
+_Last updated: 2025-02-16T20:54:31.057Z_
