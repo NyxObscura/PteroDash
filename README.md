@@ -1,3 +1,3 @@
-# Enhancing code readability
+# Updating documentation formatting
 
-_Last updated: 2025-02-16T08:11:51.677Z_
+_Last updated: 2025-02-16T08:12:21.437Z_
