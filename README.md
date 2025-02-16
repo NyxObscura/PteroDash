@@ -1,3 +1,3 @@
-# Refactoring database queries
+# Refactoring background jobs
 
-_Last updated: 2025-02-16T10:59:59.358Z_
+_Last updated: 2025-02-16T11:00:29.411Z_
