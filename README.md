@@ -1,3 +1,3 @@
-# Refactoring file structure
+# Removing deprecated functions
 
-_Last updated: 2025-02-16T22:06:32.329Z_
+_Last updated: 2025-02-16T22:07:02.287Z_
