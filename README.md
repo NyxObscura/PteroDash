@@ -1,3 +1,3 @@
-# Refactoring background jobs
+# Updating example code snippets
 
-_Last updated: 2025-02-16T11:30:59.823Z_
+_Last updated: 2025-02-16T11:31:29.801Z_
