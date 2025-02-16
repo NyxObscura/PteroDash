@@ -1,3 +1,3 @@
-# Optimizing SQL queries
+# Improving application startup time
 
-_Last updated: 2025-02-16T11:23:29.693Z_
+_Last updated: 2025-02-16T11:23:59.715Z_
