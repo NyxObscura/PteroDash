@@ -1,3 +1,3 @@
-# Reducing memory usage
+# Refactoring component structure
 
-_Last updated: 2025-02-16T11:42:30.000Z_
+_Last updated: 2025-02-16T11:42:59.965Z_
