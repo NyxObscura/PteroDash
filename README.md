@@ -1,3 +1,3 @@
-# Refactoring network request handling
+# Fixing permission issues
 
-_Last updated: 2025-02-16T12:31:31.341Z_
+_Last updated: 2025-02-16T12:32:01.203Z_
