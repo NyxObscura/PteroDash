@@ -1,3 +1,3 @@
-# Updating API request parameters
+# Updating documentation formatting
 
-_Last updated: 2025-02-16T20:02:00.099Z_
+_Last updated: 2025-02-16T20:02:30.101Z_
