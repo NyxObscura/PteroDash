@@ -1,3 +1,3 @@
-# Improving API documentation
+# Fixing image rendering issues
 
-_Last updated: 2025-02-16T21:39:31.807Z_
+_Last updated: 2025-02-16T21:40:01.846Z_
