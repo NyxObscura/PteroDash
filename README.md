@@ -1,3 +1,3 @@
-# Removing deprecated functions
+# Fixing UI glitches
 
-_Last updated: 2025-02-16T12:56:53.381Z_
+_Last updated: 2025-02-16T12:57:26.561Z_
