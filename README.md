@@ -1,3 +1,3 @@
-# Fixing typos in documentation
+# Fixing inconsistencies in data
 
-_Last updated: 2025-02-16T13:03:53.215Z_
+_Last updated: 2025-02-16T13:04:23.213Z_
