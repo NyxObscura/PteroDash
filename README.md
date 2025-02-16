@@ -1,3 +1,3 @@
-# Reformatting markdown files
+# Optimizing SQL queries
 
-_Last updated: 2025-02-16T11:22:59.688Z_
+_Last updated: 2025-02-16T11:23:29.693Z_
