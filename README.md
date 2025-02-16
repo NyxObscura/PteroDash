@@ -1,3 +1,3 @@
-# Performance improvements
+# Rewriting inefficient algorithms
 
-_Last updated: 2025-02-16T18:27:58.459Z_
+_Last updated: 2025-02-16T18:28:28.471Z_
