@@ -1,3 +1,3 @@
-# Adding better analytics tracking
+# Fixing permission issues
 
-_Last updated: 2025-02-16T15:56:56.048Z_
+_Last updated: 2025-02-16T15:57:26.008Z_
