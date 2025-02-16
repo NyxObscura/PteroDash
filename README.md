@@ -1,3 +1,3 @@
-# Fixing UI glitches
+# Fixing compatibility issues
 
-_Last updated: 2025-02-16T13:43:53.913Z_
+_Last updated: 2025-02-16T13:44:23.956Z_
