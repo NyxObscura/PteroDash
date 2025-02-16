@@ -1,3 +1,3 @@
-# Improving API documentation
+# Fixing pagination bugs
 
-_Last updated: 2025-02-16T14:36:54.770Z_
+_Last updated: 2025-02-16T14:37:24.947Z_
