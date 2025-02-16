@@ -1,3 +1,3 @@
-# Optimizing SQL queries
+# Fixing pagination bugs
 
-_Last updated: 2025-02-16T09:59:58.769Z_
+_Last updated: 2025-02-16T10:00:28.781Z_
