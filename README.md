@@ -1,3 +1,3 @@
-# Adding drag-and-drop functionality
+# Adding proper error messages
 
-_Last updated: 2025-02-17T15:38:54.010Z_
+_Last updated: 2025-02-17T15:39:39.221Z_
