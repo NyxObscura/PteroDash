@@ -1,3 +1,3 @@
-# Refactoring background jobs
+# Improving session handling
 
-_Last updated: 2025-02-17T16:40:55.058Z_
+_Last updated: 2025-02-17T16:41:24.997Z_
