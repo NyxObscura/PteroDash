@@ -1,3 +1,3 @@
-# Adding accessibility improvements
+# Improving SEO metadata
 
-_Last updated: 2025-02-17T21:16:28.506Z_
+_Last updated: 2025-02-17T21:16:58.340Z_
