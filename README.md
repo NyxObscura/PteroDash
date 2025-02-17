@@ -1,3 +1,3 @@
-# Updating example code snippets
+# Removing deprecated functions
 
-_Last updated: 2025-02-17T21:26:58.671Z_
+_Last updated: 2025-02-17T21:27:28.621Z_
