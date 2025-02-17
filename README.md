@@ -1,3 +1,3 @@
-# Performance improvements
+# Reducing bundle size
 
-_Last updated: 2025-02-17T05:53:54.230Z_
+_Last updated: 2025-02-17T05:54:24.061Z_
