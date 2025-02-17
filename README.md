@@ -1,3 +1,3 @@
-# Fixing image rendering issues
+# Enhancing offline support
 
-_Last updated: 2025-02-17T17:45:25.208Z_
+_Last updated: 2025-02-17T17:45:55.096Z_
