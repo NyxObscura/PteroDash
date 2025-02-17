@@ -1,3 +1,3 @@
-# Updating example code snippets
+# Refactoring file structure
 
-_Last updated: 2025-02-17T17:55:55.162Z_
+_Last updated: 2025-02-17T17:56:25.170Z_
