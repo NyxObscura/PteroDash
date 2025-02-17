@@ -1,3 +1,3 @@
-# Improving comments in code
+# Refactoring background jobs
 
-_Last updated: 2025-02-17T17:04:54.599Z_
+_Last updated: 2025-02-17T17:05:24.613Z_
