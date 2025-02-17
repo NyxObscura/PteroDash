@@ -1,3 +1,3 @@
-# Improving SEO metadata
+# Rewriting inefficient algorithms
 
-_Last updated: 2025-02-17T21:16:58.340Z_
+_Last updated: 2025-02-17T21:17:28.341Z_
