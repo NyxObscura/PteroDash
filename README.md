@@ -1,3 +1,3 @@
-# Updating dependencies
+# Updating API request parameters
 
-_Last updated: 2025-02-17T02:08:05.282Z_
+_Last updated: 2025-02-17T02:08:35.287Z_
