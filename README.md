@@ -1,3 +1,3 @@
-# Fixing indentation issues
+# Removing deprecated functions
 
-_Last updated: 2025-02-17T18:06:55.383Z_
+_Last updated: 2025-02-17T18:07:25.286Z_
