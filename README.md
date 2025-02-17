@@ -1,3 +1,3 @@
-# Optimizing CSS rules
+# Fixing internationalization issues
 
-_Last updated: 2025-02-17T23:13:00.736Z_
+_Last updated: 2025-02-17T23:13:30.808Z_
