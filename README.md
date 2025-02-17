@@ -1,3 +1,3 @@
-# Update minor changes
+# Refactoring component structure
 
-_Last updated: 2025-02-17T16:12:24.512Z_
+_Last updated: 2025-02-17T16:12:54.459Z_
