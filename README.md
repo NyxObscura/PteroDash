@@ -1,3 +1,3 @@
-# Enhancing dark mode support
+# Fixing permission issues
 
-_Last updated: 2025-02-17T20:40:27.760Z_
+_Last updated: 2025-02-17T20:40:57.642Z_
