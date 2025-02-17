@@ -1,3 +1,3 @@
-# Minor text update
+# Removing deprecated functions
 
-_Last updated: 2025-02-17T06:44:27.021Z_
+_Last updated: 2025-02-17T06:44:56.852Z_
