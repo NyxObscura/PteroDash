@@ -1,3 +1,3 @@
-# Adding better analytics tracking
+# Fixing UI glitches
 
-_Last updated: 2025-02-17T13:55:22.458Z_
+_Last updated: 2025-02-17T13:55:52.184Z_
