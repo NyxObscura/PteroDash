@@ -1,3 +1,3 @@
-# Fixing pagination bugs
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-17T13:41:51.907Z_
+_Last updated: 2025-02-17T13:42:22.076Z_
