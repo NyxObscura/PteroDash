@@ -1,3 +1,3 @@
-# Improving error handling
+# Reducing bundle size
 
-_Last updated: 2025-02-18T01:20:56.755Z_
+_Last updated: 2025-02-18T01:21:06.859Z_
