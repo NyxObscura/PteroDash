@@ -1,3 +1,3 @@
-# Improving error handling
+# Optimizing SQL queries
 
-_Last updated: 2025-02-18T00:00:54.291Z_
+_Last updated: 2025-02-18T00:01:04.226Z_
