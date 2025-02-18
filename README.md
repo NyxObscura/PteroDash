@@ -1,3 +1,3 @@
-# Adding better tooltips
+# Removing deprecated functions
 
-_Last updated: 2025-02-18T00:41:39.734Z_
+_Last updated: 2025-02-18T00:41:49.271Z_
