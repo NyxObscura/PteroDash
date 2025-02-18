@@ -1,3 +1,3 @@
-# Optimizing CSS rules
+# Removing deprecated functions
 
-_Last updated: 2025-02-18T00:09:54.560Z_
+_Last updated: 2025-02-18T00:10:04.588Z_
