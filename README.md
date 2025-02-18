@@ -1,3 +1,3 @@
-# Adding better exception handling
+# Refactoring background jobs
 
-_Last updated: 2025-02-18T01:07:56.019Z_
+_Last updated: 2025-02-18T01:08:06.014Z_
