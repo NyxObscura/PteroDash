@@ -1,3 +1,3 @@
-# Adding missing documentation
+# Adding better exception handling
 
-_Last updated: 2025-02-18T01:10:35.974Z_
+_Last updated: 2025-02-18T01:10:46.163Z_
