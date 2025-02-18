@@ -1,3 +1,3 @@
-# Adding better tooltips
+# Performance improvements
 
-_Last updated: 2025-02-18T00:07:24.557Z_
+_Last updated: 2025-02-18T00:07:34.446Z_
